@@ -1,0 +1,11 @@
+{
+  "name": "IfcScript Slab.ifc example",
+  "source_repository": "buildingsmart-community/IfcScript",
+  "source_url": "https://github.com/buildingsmart-community/IfcScript/blob/master/Examples/Slab.ifc",
+  "accessed": "2026-09-05",
+  "reported_originating_system": "GeometryGymIFC v0.0.15.0 / IFCExamples v0.0.1.0",
+  "schema": "IFC4",
+  "use_in_this_project": "Independent-authoring import/geometry/material-structure fixture only; not a carbon benchmark and not evidence of general IFC support.",
+  "note": "The upstream repository is archived. This local copy is retained solely as a transparent interoperability fixture with source attribution.",
+  "local_sha256": "d7cf7d0a4901c4164be85b1ed966f0efc3dcabe3c39c47c66906341aff65ba42"
+}

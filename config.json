@@ -1,0 +1,11 @@
+{
+  "seed": 20260905,
+  "draws": 10000,
+  "quantity_geometry_relative_tolerance": 0.01,
+  "quantity_multiplier_triangular": [0.98, 1.0, 1.02],
+  "density_multiplier_triangular": [0.95, 1.0, 1.05],
+  "factor_multiplier_triangular": [0.8, 1.0, 1.2],
+  "uncertainty_status": "Illustrative epistemic ranges, not fitted or supplied by KBOB",
+  "dependence": "Independent quantity errors per element; density and factor multipliers shared by all elements with the same record ID; independent across records and variable families",
+  "boundary": "Selected wall and slab material production using KBOB Fabrication only"
+}

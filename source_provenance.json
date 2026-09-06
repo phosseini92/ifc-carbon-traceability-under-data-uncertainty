@@ -1,0 +1,20 @@
+{
+  "url": "https://www.kbob.admin.ch/dam/fr/sd-web/GUOl1trUNEVH/%C3%96kobilanzdaten_im_Baubereich_V9.0.xlsx",
+  "landing_page": "https://www.kbob.admin.ch/fr/donnees-ecobilans-dans-la-construction",
+  "accessed": "2026-09-05",
+  "sha256": "9ae2dfecbbc188fa9ed839ddfd1dc62d4ef254e8e5457aa08c42730c78277a5b",
+  "sheet": "Baumaterialien Matériaux",
+  "fields": {
+    "id": "A",
+    "uuid": "B",
+    "density": "F",
+    "declared_unit": "G",
+    "production_ghg": "AA"
+  },
+  "selected_rows": [
+    38,
+    83,
+    88
+  ],
+  "note": "Three attributed records extracted without rounding; row 88 is used only in a deliberately wrong mapping experiment. Uncertainty ranges are author-defined and not KBOB uncertainty data."
+}

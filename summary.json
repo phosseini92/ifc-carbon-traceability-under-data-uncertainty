@@ -1,0 +1,12 @@
+{
+  "nominal_kgco2e": 4001.9123200000013,
+  "draws": 10000,
+  "seed": 20260905,
+  "mean_kgco2e": 4000.9118300457403,
+  "p05_kgco2e": 3577.042469775805,
+  "median_kgco2e": 4000.4318618321313,
+  "p95_kgco2e": 4430.469311912687,
+  "mc_mean_standard_error_kgco2e": 2.5672247400905737,
+  "scope": "Selected wall and slab material production using KBOB Fabrication only",
+  "uncertainty_status": "Illustrative epistemic ranges, not fitted or supplied by KBOB"
+}

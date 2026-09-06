@@ -1,0 +1,25 @@
+# Full pip freeze of the clean Python 3.12.3 environment actually used for the
+# v1.0 execution audit (2026-09-06), produced by installing only
+# requirements-validation.txt with no other packages present. Identical to
+# requirements-v0_1-reproduced.txt, confirming the pinned dependency set
+# resolves to the same environment across the v0.1 and v1.0 executions.
+contourpy==1.3.3
+cycler==0.12.1
+fonttools==4.64.0
+ifcopenshell==0.8.5
+iniconfig==2.3.0
+isodate==0.7.2
+kiwisolver==1.5.1
+lark==1.3.1
+matplotlib==3.11.1
+numpy==2.5.2
+packaging==26.3
+pillow==12.3.0
+pluggy==1.6.0
+Pygments==2.21.0
+pyparsing==3.3.2
+pytest==9.1.1
+python-dateutil==2.9.0.post0
+shapely==2.1.2
+six==1.17.0
+typing_extensions==4.16.0

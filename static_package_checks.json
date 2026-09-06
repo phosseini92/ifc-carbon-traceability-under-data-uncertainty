@@ -1,0 +1,35 @@
+{
+  "project_version": "0.2",
+  "created": "2026-09-05",
+  "status": "static package checks only; IfcOpenShell runtime pending",
+  "checks": [
+    {
+      "check": "python_ast_parse",
+      "passed": true,
+      "scope": "syntax only; imports/runtime not executed"
+    },
+    {
+      "check": "mapping_keys_equal_contract_keys",
+      "passed": true
+    },
+    {
+      "check": "mapping_records_exist_in_factor_excerpt",
+      "passed": true
+    },
+    {
+      "check": "contract_record_and_uuid_match_factor_excerpt",
+      "passed": true
+    },
+    {
+      "check": "manual_baseline_formula",
+      "passed": true,
+      "expected_kgco2e": 4001.912320000001,
+      "note": "static arithmetic benchmark; not a v0.2 runtime result"
+    },
+    {
+      "check": "external_fixture_hash_recorded",
+      "passed": true,
+      "sha256": "d7cf7d0a4901c4164be85b1ed966f0efc3dcabe3c39c47c66906341aff65ba42"
+    }
+  ]
+}

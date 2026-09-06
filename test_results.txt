@@ -1,0 +1,20 @@
+test_all_fixed_multipliers_reproduce_nominal (test_workflow.TestWorkflow.test_all_fixed_multipliers_reproduce_nominal) ... ok
+test_corrupt_inputs_block_complete_total (test_workflow.TestWorkflow.test_corrupt_inputs_block_complete_total) ... ok
+test_empty_model_is_rejected (test_workflow.TestWorkflow.test_empty_model_is_rejected) ... ok
+test_explicit_cubic_millimetre_quantity_unit (test_workflow.TestWorkflow.test_explicit_cubic_millimetre_quantity_unit) ... ok
+test_factor_unit_and_boundary_are_checked (test_workflow.TestWorkflow.test_factor_unit_and_boundary_are_checked) ... ok
+test_fixture_bytes_are_reproducible (test_workflow.TestWorkflow.test_fixture_bytes_are_reproducible) ... ok
+test_ifc_roundtrip_preserves_quantities_and_guids (test_workflow.TestWorkflow.test_ifc_roundtrip_preserves_quantities_and_guids) ... ok
+test_independent_hand_calculation (test_workflow.TestWorkflow.test_independent_hand_calculation) ... ok
+test_metre_and_millimetre_geometry_give_same_result (test_workflow.TestWorkflow.test_metre_and_millimetre_geometry_give_same_result) ... ok
+test_missing_quantity_is_not_silently_reconstructed (test_workflow.TestWorkflow.test_missing_quantity_is_not_silently_reconstructed) ... ok
+test_negative_quantity_is_rejected (test_workflow.TestWorkflow.test_negative_quantity_is_rejected) ... ok
+test_plausible_wrong_mapping_is_documented_blind_spot (test_workflow.TestWorkflow.test_plausible_wrong_mapping_is_documented_blind_spot) ... ok
+test_rejects_simulation_of_invalid_elements (test_workflow.TestWorkflow.test_rejects_simulation_of_invalid_elements) ... ok
+test_reordering_elements_does_not_change_draws (test_workflow.TestWorkflow.test_reordering_elements_does_not_change_draws) ... ok
+test_smaller_sample_is_exact_prefix (test_workflow.TestWorkflow.test_smaller_sample_is_exact_prefix) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.920s
+
+OK

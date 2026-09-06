@@ -1,0 +1,16 @@
+{
+  "Clay brick (KBOB generic)": {
+    "record_id": "02.003",
+    "source_uuid": "45766F6B-BC17-4725-B939-23AA76838736",
+    "review_status": "deliberately_wrong_control",
+    "review_basis": "Fault-injection control: intentionally approves a valid but unsuitable KBOB record to demonstrate the remaining semantic blind spot.",
+    "applicability_note": "Not a valid project mapping."
+  },
+  "Concrete (unreinforced, KBOB generic)": {
+    "record_id": "01.002",
+    "source_uuid": "E13EE05E-FD34-4FB5-A178-0FC4164A96F2",
+    "review_status": "provisional_author_review",
+    "review_basis": "Explicit author review of the generic IFC label against the selected KBOB generic unreinforced-concrete record; not an LCA practitioner verification or product-specific match.",
+    "applicability_note": "Swiss generic market proxy used only for this controlled research demonstrator."
+  }
+}

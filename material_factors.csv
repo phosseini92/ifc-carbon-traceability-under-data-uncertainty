@@ -1,0 +1,4 @@
+record_id,uuid,name_de,name_fr,density_kg_m3,declared_unit,production_kgco2e_per_kg,source_row,source_column,geography,boundary,source_version
+01.002,E13EE05E-FD34-4FB5-A178-0FC4164A96F2,Hochbaubeton (ohne Bewehrung),Béton pour bâtiment (sans armature),2300,kg,0.0887,38,AA,Swiss market,KBOB Herstellung / Fabrication only,KBOB/ecobau 2022 v9.0
+02.001,958BA083-03C8-4336-BFC5-0DB5B6BC1B43,Backstein,Brique en terre cuite,900,kg,0.254,83,AA,Swiss market,KBOB Herstellung / Fabrication only,KBOB/ecobau 2022 v9.0
+02.003,45766F6B-BC17-4725-B939-23AA76838736,Leichtlehmstein,Brique en argile légère,700,kg,0.167,88,AA,Swiss market,KBOB Herstellung / Fabrication only,KBOB/ecobau 2022 v9.0
