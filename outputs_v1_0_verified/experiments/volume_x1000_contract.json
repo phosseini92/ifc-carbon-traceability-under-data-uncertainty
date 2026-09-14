@@ -1,0 +1,16 @@
+{
+  "Clay brick (KBOB generic)": {
+    "record_id": "02.001",
+    "source_uuid": "958BA083-03C8-4336-BFC5-0DB5B6BC1B43",
+    "review_status": "provisional_author_review",
+    "review_basis": "Explicit author review of the generic IFC label against the selected KBOB generic fired-brick record; not an LCA practitioner verification or product-specific match.",
+    "applicability_note": "Swiss generic market proxy used only for this controlled research demonstrator."
+  },
+  "Concrete (unreinforced, KBOB generic)": {
+    "record_id": "01.002",
+    "source_uuid": "E13EE05E-FD34-4FB5-A178-0FC4164A96F2",
+    "review_status": "provisional_author_review",
+    "review_basis": "Explicit author review of the generic IFC label against the selected KBOB generic unreinforced-concrete record; not an LCA practitioner verification or product-specific match.",
+    "applicability_note": "Swiss generic market proxy used only for this controlled research demonstrator."
+  }
+}

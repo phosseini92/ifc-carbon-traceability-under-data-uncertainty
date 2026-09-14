@@ -1,0 +1,18 @@
+{
+  "legacy_style_check": {
+    "summary.json": true,
+    "element_ledger.csv": true,
+    "monte_carlo_draws.csv": true,
+    "convergence.csv": true,
+    "experiment_results.csv": true,
+    "one_at_a_time_sensitivity.csv": true
+  },
+  "full_tree_check": {
+    "description": "Every file under outputs/ (excluding external_ifc_check.json, produced by a separate script and compared separately) from two independent 'python run.py --output <dir>' executions, compared byte-for-byte by SHA-256.",
+    "files_compared": 44,
+    "byte_identical_files": 44,
+    "mismatched_files": [],
+    "key_numeric_outputs_match": true
+  },
+  "note": "v0.1 established byte-identical reproduction for six numerical outputs only. The v1.0 execution audit extends this to the entire output tree, including every experiments/*.ifc fault-injection fixture, after fixing the non-determinism documented in docs/AUDIT_V0_2_TO_V1_0.md."
+}

@@ -1,0 +1,8 @@
+case,accepted_by_release_checks,issue_codes,mapped_geometry_volume_fraction,released_total_kgco2e,naive_kgco2e,naive_bias_percent,interpretation
+complete,True,,1.0,4001.9123200000013,4001.9123200000013,0.0,Controlled software experiment
+missing_material,False,MISSING_MATERIAL,0.8674911660777386,,3453.272320000001,-13.709445788157604,Controlled software experiment
+unmapped_material,False,UNMAPPED_MATERIAL,0.8674911660777386,,3453.272320000001,-13.709445788157604,Controlled software experiment
+volume_x1000,False,QUANTITY_GEOMETRY_MISMATCH,1.0,,552093.2723200001,13695.736342369437,Controlled software experiment
+duplicate_guid,False,DUPLICATE_GUID,1.0,,4001.9123200000013,0.0,Controlled software experiment
+mapping_tamper,False,MAPPING_CONTRACT_MISMATCH,1.0,,2607.8963200000007,-34.83374668238609,Mapping configuration drift detected by the recorded review contract
+plausible_wrong_mapping_approved,True,,1.0,2607.8963200000007,2607.8963200000007,-34.83374668238609,Known semantic error remains undetected when an internally consistent review contract is itself wrong

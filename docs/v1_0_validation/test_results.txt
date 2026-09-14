@@ -1,0 +1,29 @@
+test_01_independent_hand_calculation (test_workflow.TestWorkflow.test_01_independent_hand_calculation) ... ok
+test_02_ifc_roundtrip_preserves_quantities_and_guids (test_workflow.TestWorkflow.test_02_ifc_roundtrip_preserves_quantities_and_guids) ... ok
+test_03_metre_and_millimetre_geometry_give_same_result (test_workflow.TestWorkflow.test_03_metre_and_millimetre_geometry_give_same_result) ... ok
+test_04_explicit_cubic_millimetre_quantity_unit (test_workflow.TestWorkflow.test_04_explicit_cubic_millimetre_quantity_unit) ... ok
+test_05_structural_corruptions_block_complete_total (test_workflow.TestWorkflow.test_05_structural_corruptions_block_complete_total) ... ok
+test_06_mapping_tamper_is_blocked_by_contract (test_workflow.TestWorkflow.test_06_mapping_tamper_is_blocked_by_contract) ... ok
+test_07_approved_wrong_mapping_remains_semantic_blind_spot (test_workflow.TestWorkflow.test_07_approved_wrong_mapping_remains_semantic_blind_spot) ... ok
+test_08_missing_contract_entry_is_blocked (test_workflow.TestWorkflow.test_08_missing_contract_entry_is_blocked) ... ok
+test_09_missing_quantity_is_not_silently_reconstructed (test_workflow.TestWorkflow.test_09_missing_quantity_is_not_silently_reconstructed) ... ok
+test_10_negative_quantity_is_rejected (test_workflow.TestWorkflow.test_10_negative_quantity_is_rejected) ... ok
+test_11_empty_model_is_rejected (test_workflow.TestWorkflow.test_11_empty_model_is_rejected) ... ok
+test_12_reordering_elements_does_not_change_draws (test_workflow.TestWorkflow.test_12_reordering_elements_does_not_change_draws) ... ok
+test_13_smaller_sample_is_exact_prefix (test_workflow.TestWorkflow.test_13_smaller_sample_is_exact_prefix) ... ok
+test_14_all_fixed_multipliers_reproduce_nominal (test_workflow.TestWorkflow.test_14_all_fixed_multipliers_reproduce_nominal) ... ok
+test_15_empty_active_family_set_reproduces_nominal_exactly (test_workflow.TestWorkflow.test_15_empty_active_family_set_reproduces_nominal_exactly) ... ok
+test_16_unknown_uncertainty_family_is_rejected (test_workflow.TestWorkflow.test_16_unknown_uncertainty_family_is_rejected) ... ok
+test_17_factor_unit_and_boundary_are_checked (test_workflow.TestWorkflow.test_17_factor_unit_and_boundary_are_checked) ... ok
+test_18_rejects_simulation_of_invalid_elements (test_workflow.TestWorkflow.test_18_rejects_simulation_of_invalid_elements) ... ok
+test_19_fixture_bytes_are_reproducible (test_workflow.TestWorkflow.test_19_fixture_bytes_are_reproducible) ... ok
+test_20_mapping_contract_reader_rejects_missing_fields (test_workflow.TestWorkflow.test_20_mapping_contract_reader_rejects_missing_fields) ... ok
+test_21_plain_material_descriptor (test_workflow.TestWorkflow.test_21_plain_material_descriptor) ... ok
+test_22_external_ifc_layer_assignment_is_recognised_but_not_carbon_released (test_workflow.TestWorkflow.test_22_external_ifc_layer_assignment_is_recognised_but_not_carbon_released) ... ok
+test_23_declared_volume_function_requires_exactly_one_netvolume (test_workflow.TestWorkflow.test_23_declared_volume_function_requires_exactly_one_netvolume) ... ok
+test_24_experiment_case_bytes_are_reproducible (test_workflow.TestWorkflow.test_24_experiment_case_bytes_are_reproducible) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.597s
+
+OK
